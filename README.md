@@ -1,4 +1,3 @@
-```markdown
 # Price Drop Monitor
 
 This project is a Python script that monitors the price of a product on Amazon and sends an email notification when the price drops below a predefined threshold. The script uses Selenium to scrape the product price and SMTP to send email notifications.
@@ -78,4 +77,4 @@ Stopping monitoring as the price dropped.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
+
