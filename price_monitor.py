@@ -14,7 +14,7 @@ import time
 # Sends an email notification when the product price drops below the threshold price
 def send_email_notification(current_price, threshold_price):
     sender_email = "satyaveerubhotla187@gmail.com"
-    sender_password = "zxcl vrpr mjim ztoc"
+    sender_password = "YOUR_PASSWORD"
     recipient_email = "satyaveerubhotla7@gmail.com"
     product_link = "https://www.amazon.in/dp/B0D9629NJQ"
     subject = "Price Drop Alert!"
